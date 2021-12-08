@@ -25,3 +25,4 @@ This repository demonstrates the usage of GIT tags.
 -	git fetch --tags
 
 ## Reference
+- https://gist.github.com/739288
